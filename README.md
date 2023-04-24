@@ -52,10 +52,3 @@ Analista de TI | INFOBOX ERP | 2023 - Presente
   <a href="https://www.instagram.com/gabriee_llima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriellimadasilva2003" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
- 
-## ⚙️ Estatísticas GitHub
-
-<div align="center">
-  <a href="https://github.com/gabrieellimapy">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieellimapy&layout=compact&langs_count=7&theme=dark"/>
-</div>
