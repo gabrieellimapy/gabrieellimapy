@@ -53,14 +53,17 @@ Analista de TI | INFOBOX ERP | 2023 - Presente
   <a href="https://www.linkedin.com/in/gabriellimadasilva2003" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+## 📈 Estatísticas
+
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=gabrieellimapylp&show_icons=true&theme=dark&bg_color=00000000"
+  srcset="(https://github-readme-stats.vercel.app/api?username=gabrieellimapy&show_icons=true&theme=dark&bg_color=00000000"
   media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=gabrieellimapy_icons=true"
   media="(prefers-color-scheme: dracula), (prefers-color-scheme: dracula)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=gabrieellimapylp&show_icons=true" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=gabrieellimapy&show_icons=true&theme=vue-dark" />
+                                                                                                            
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieellimapy&hide=TeX&layout=compact)                                                                                                            
