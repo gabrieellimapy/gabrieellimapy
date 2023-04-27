@@ -64,6 +64,4 @@ Analista de TI | INFOBOX ERP | 2023 - Presente
   srcset="https://github-readme-stats.vercel.app/api?username=gabrieellimapy_icons=true"
   media="(prefers-color-scheme: dracula), (prefers-color-scheme: dracula)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=gabrieellimapy&show_icons=true&theme=vue-dark" />
-                                                                                                            
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieellimapy&hide=TeX&layout=compact)                                                                                                            
+<img src="https://github-readme-stats.vercel.app/api?username=gabrieellimapy&show_icons=true&theme=vue-dark" />                                                        
