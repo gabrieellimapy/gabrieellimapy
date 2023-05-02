@@ -29,11 +29,13 @@
   <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
    <img align="center" alt="OpenAI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg">
   
-# Bibliotecas Python 🐍🤖:
+## Bibliotecas Python 🐍🤖:
   <div style"display: indline_block">
       <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
       <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-       <img align="center" alt="Matplotlib" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+      <img align="center" alt="Matplotlib" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+      <img align="center" alt="Plotly" height="30" width="40" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg">
+      <img align="center" alt="Seaborn" height="30" width="40" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg">
 
 ## 🎖🥇🥈🥉 Prêmios:
 
